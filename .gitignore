@@ -11,3 +11,5 @@ resources/*.momd
 resources/*.nib
 resources/*.storyboardc
 tags
+vendor/Podfile.lock
+vendor/Pods
