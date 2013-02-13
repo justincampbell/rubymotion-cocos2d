@@ -4,7 +4,7 @@ require 'motion/project'
 require 'motion-cocoapods'
 
 Motion::Project::App.setup do |app|
-  app.name = "Micro"
+  app.name = "Cocos2D"
 
   app.frameworks += %w[
     AVFoundation
